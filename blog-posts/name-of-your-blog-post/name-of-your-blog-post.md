@@ -3,10 +3,16 @@ published: false
 title: 'Your title'
 cover_image: 'https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/your-asset.png'
 description: 'Description of the article'
-tags: test, devops, tag3
+tags: tag1, tag2, tag3
 series:
 canonical_url:
 ---
+
+Testing the blog post setup
+
+Testing the blog post setup
+
+Testing the blog post setup
 
 Testing the blog post setup
 
