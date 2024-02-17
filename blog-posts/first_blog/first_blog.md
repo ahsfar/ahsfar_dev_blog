@@ -2,7 +2,7 @@
 ---
 published: true
 title: "Implement a generic oneOf type with Typescript"
-cover_image: "https://raw.githubusercontent.com/maxime1992/my-dev.to/master/blog-posts/implement-a-generic-one-of-type-with-typescript/assets/implement-a-generic-one-of-type-with-typescript-cover.png"
+cover_image: "[script-cover.png](https://github.com/ahsfar/ahsfar_dev_blog/blob/master/blog-posts/first_blog/assets/cover.jpg)"
 description: "Implement a generic oneOf type with Typescript"
 tags: typescript
 series:
